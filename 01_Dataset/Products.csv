@@ -1,0 +1,26 @@
+﻿Product_ID,Product_Name,Category,Unit_Price_AED,Unit_Cost_AED
+P1001,Wireless Earbuds,Electronics,2491.35,1776.23
+P1002,Smartphone,Electronics,2756.7,2047.5
+P1003,Laptop,Electronics,360.25,279.12
+P1004,Power Bank,Electronics,2451.17,1845.62
+P1005,Smart Watch,Electronics,466.64,333.31
+P1006,Air Fryer,Home & Kitchen,380.57,235.8
+P1007,Coffee Maker,Home & Kitchen,627.7,382.87
+P1008,Vacuum Cleaner,Home & Kitchen,446.29,247.55
+P1009,Cookware Set,Home & Kitchen,546.9,295.06
+P1010,Blender,Home & Kitchen,794.01,470.23
+P1011,Sneakers,Fashion,501.22,234.99
+P1012,Backpack,Fashion,631.98,322.43
+P1013,Abaya,Fashion,513.71,234.53
+P1014,T-Shirt,Fashion,322.03,143.29
+P1015,Wallet,Fashion,129.89,64.17
+P1016,Perfume,Beauty & Personal Care,363.87,164.26
+P1017,Hair Dryer,Beauty & Personal Care,173.25,71.26
+P1018,Skin Care Set,Beauty & Personal Care,238.65,95.25
+P1019,Electric Trimmer,Beauty & Personal Care,84.11,35.19
+P1020,Makeup Kit,Beauty & Personal Care,128.24,55.32
+P1021,Yoga Mat,Sports & Outdoors,254.5,139.38
+P1022,Running Shoes,Sports & Outdoors,392.64,198.04
+P1023,Water Bottle,Sports & Outdoors,461.94,251.92
+P1024,Dumbbell Set,Sports & Outdoors,228.43,114.76
+P1025,Camping Chair,Sports & Outdoors,383.31,187.83

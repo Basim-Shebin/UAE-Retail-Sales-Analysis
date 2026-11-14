@@ -1,0 +1,421 @@
+﻿Customer_ID,Customer_Segment,Customer_City
+C0001,New,Dubai
+C0002,Returning,Sharjah
+C0003,Returning,Ajman
+C0004,Returning,Abu Dhabi
+C0005,New,Dubai
+C0006,Returning,Abu Dhabi
+C0007,Returning,Ajman
+C0008,Returning,Abu Dhabi
+C0009,Returning,Dubai
+C0010,New,Abu Dhabi
+C0011,New,Abu Dhabi
+C0012,VIP,Dubai
+C0013,New,Dubai
+C0014,New,Sharjah
+C0015,Returning,Ajman
+C0016,Returning,Abu Dhabi
+C0017,Returning,Dubai
+C0018,New,Dubai
+C0019,Returning,Abu Dhabi
+C0020,New,Abu Dhabi
+C0021,New,Sharjah
+C0022,Returning,Abu Dhabi
+C0023,New,Sharjah
+C0024,Returning,Dubai
+C0025,New,Fujairah
+C0026,VIP,Sharjah
+C0027,New,Fujairah
+C0028,Returning,Sharjah
+C0029,Returning,Dubai
+C0030,New,Ras Al Khaimah
+C0031,Returning,Dubai
+C0032,New,Abu Dhabi
+C0033,New,Al Ain
+C0034,Returning,Sharjah
+C0035,Returning,Sharjah
+C0036,Returning,Sharjah
+C0037,New,Abu Dhabi
+C0038,New,Abu Dhabi
+C0039,Returning,Dubai
+C0040,New,Sharjah
+C0041,New,Ras Al Khaimah
+C0042,Returning,Abu Dhabi
+C0043,Returning,Dubai
+C0044,VIP,Abu Dhabi
+C0045,Returning,Dubai
+C0046,Returning,Abu Dhabi
+C0047,VIP,Abu Dhabi
+C0048,Returning,Dubai
+C0049,Returning,Abu Dhabi
+C0050,Returning,Dubai
+C0051,Returning,Al Ain
+C0052,New,Abu Dhabi
+C0053,New,Sharjah
+C0054,New,Sharjah
+C0055,Returning,Ajman
+C0056,New,Ras Al Khaimah
+C0057,New,Dubai
+C0058,Returning,Abu Dhabi
+C0059,Returning,Ajman
+C0060,New,Fujairah
+C0061,New,Abu Dhabi
+C0062,New,Ras Al Khaimah
+C0063,New,Dubai
+C0064,Returning,Umm Al Quwain
+C0065,VIP,Ajman
+C0066,VIP,Al Ain
+C0067,Returning,Dubai
+C0068,Returning,Sharjah
+C0069,Returning,Dubai
+C0070,Returning,Dubai
+C0071,VIP,Dubai
+C0072,New,Al Ain
+C0073,New,Dubai
+C0074,Returning,Al Ain
+C0075,New,Dubai
+C0076,Returning,Fujairah
+C0077,Returning,Dubai
+C0078,New,Dubai
+C0079,New,Sharjah
+C0080,New,Abu Dhabi
+C0081,Returning,Sharjah
+C0082,New,Ajman
+C0083,Returning,Sharjah
+C0084,New,Dubai
+C0085,VIP,Abu Dhabi
+C0086,New,Abu Dhabi
+C0087,Returning,Fujairah
+C0088,New,Ras Al Khaimah
+C0089,New,Abu Dhabi
+C0090,Returning,Dubai
+C0091,New,Abu Dhabi
+C0092,VIP,Sharjah
+C0093,VIP,Ajman
+C0094,Returning,Ajman
+C0095,New,Dubai
+C0096,Returning,Ajman
+C0097,New,Abu Dhabi
+C0098,Returning,Al Ain
+C0099,Returning,Abu Dhabi
+C0100,Returning,Abu Dhabi
+C0101,Returning,Al Ain
+C0102,Returning,Dubai
+C0103,New,Ajman
+C0104,Returning,Dubai
+C0105,New,Sharjah
+C0106,New,Al Ain
+C0107,New,Dubai
+C0108,VIP,Dubai
+C0109,New,Dubai
+C0110,New,Dubai
+C0111,New,Dubai
+C0112,New,Sharjah
+C0113,Returning,Abu Dhabi
+C0114,New,Abu Dhabi
+C0115,VIP,Al Ain
+C0116,New,Dubai
+C0117,New,Dubai
+C0118,Returning,Abu Dhabi
+C0119,New,Abu Dhabi
+C0120,Returning,Dubai
+C0121,Returning,Dubai
+C0122,VIP,Dubai
+C0123,Returning,Ras Al Khaimah
+C0124,VIP,Ajman
+C0125,Returning,Sharjah
+C0126,Returning,Dubai
+C0127,Returning,Abu Dhabi
+C0128,VIP,Abu Dhabi
+C0129,Returning,Sharjah
+C0130,New,Dubai
+C0131,Returning,Abu Dhabi
+C0132,New,Abu Dhabi
+C0133,Returning,Dubai
+C0134,Returning,Sharjah
+C0135,New,Ras Al Khaimah
+C0136,VIP,Abu Dhabi
+C0137,Returning,Abu Dhabi
+C0138,Returning,Sharjah
+C0139,Returning,Abu Dhabi
+C0140,Returning,Dubai
+C0141,Returning,Dubai
+C0142,Returning,Al Ain
+C0143,New,Sharjah
+C0144,New,Sharjah
+C0145,New,Ras Al Khaimah
+C0146,New,Fujairah
+C0147,Returning,Sharjah
+C0148,Returning,Ajman
+C0149,VIP,Dubai
+C0150,Returning,Dubai
+C0151,Returning,Dubai
+C0152,Returning,Abu Dhabi
+C0153,Returning,Abu Dhabi
+C0154,Returning,Ajman
+C0155,Returning,Sharjah
+C0156,VIP,Dubai
+C0157,New,Dubai
+C0158,Returning,Abu Dhabi
+C0159,Returning,Sharjah
+C0160,Returning,Al Ain
+C0161,Returning,Dubai
+C0162,Returning,Dubai
+C0163,New,Dubai
+C0164,VIP,Abu Dhabi
+C0165,Returning,Sharjah
+C0166,Returning,Ras Al Khaimah
+C0167,Returning,Abu Dhabi
+C0168,Returning,Umm Al Quwain
+C0169,Returning,Fujairah
+C0170,New,Al Ain
+C0171,Returning,Dubai
+C0172,Returning,Sharjah
+C0173,New,Abu Dhabi
+C0174,Returning,Dubai
+C0175,Returning,Abu Dhabi
+C0176,New,Ras Al Khaimah
+C0177,Returning,Dubai
+C0178,VIP,Al Ain
+C0179,New,Al Ain
+C0180,New,Umm Al Quwain
+C0181,Returning,Sharjah
+C0182,New,Al Ain
+C0183,New,Dubai
+C0184,New,Ajman
+C0185,New,Ras Al Khaimah
+C0186,Returning,Dubai
+C0187,New,Dubai
+C0188,Returning,Ajman
+C0189,New,Al Ain
+C0190,New,Ajman
+C0191,VIP,Ajman
+C0192,Returning,Al Ain
+C0193,New,Dubai
+C0194,New,Abu Dhabi
+C0195,Returning,Sharjah
+C0196,VIP,Dubai
+C0197,Returning,Dubai
+C0198,New,Sharjah
+C0199,VIP,Sharjah
+C0200,New,Sharjah
+C0201,New,Al Ain
+C0202,Returning,Dubai
+C0203,New,Dubai
+C0204,VIP,Abu Dhabi
+C0205,Returning,Sharjah
+C0206,Returning,Dubai
+C0207,VIP,Dubai
+C0208,Returning,Sharjah
+C0209,Returning,Ras Al Khaimah
+C0210,New,Abu Dhabi
+C0211,Returning,Abu Dhabi
+C0212,New,Dubai
+C0213,New,Dubai
+C0214,Returning,Sharjah
+C0215,Returning,Abu Dhabi
+C0216,Returning,Dubai
+C0217,Returning,Dubai
+C0218,New,Abu Dhabi
+C0219,Returning,Dubai
+C0220,Returning,Abu Dhabi
+C0221,Returning,Sharjah
+C0222,Returning,Dubai
+C0223,Returning,Abu Dhabi
+C0224,Returning,Sharjah
+C0225,Returning,Abu Dhabi
+C0226,Returning,Al Ain
+C0227,VIP,Abu Dhabi
+C0228,Returning,Ajman
+C0229,New,Al Ain
+C0230,Returning,Dubai
+C0231,New,Al Ain
+C0232,New,Dubai
+C0233,Returning,Dubai
+C0234,New,Ajman
+C0235,New,Al Ain
+C0236,VIP,Abu Dhabi
+C0237,New,Sharjah
+C0238,New,Abu Dhabi
+C0239,VIP,Umm Al Quwain
+C0240,Returning,Dubai
+C0241,Returning,Sharjah
+C0242,Returning,Sharjah
+C0243,New,Dubai
+C0244,Returning,Dubai
+C0245,New,Al Ain
+C0246,VIP,Abu Dhabi
+C0247,Returning,Umm Al Quwain
+C0248,New,Abu Dhabi
+C0249,Returning,Dubai
+C0250,Returning,Abu Dhabi
+C0251,Returning,Dubai
+C0252,New,Ras Al Khaimah
+C0253,New,Dubai
+C0254,New,Abu Dhabi
+C0255,Returning,Abu Dhabi
+C0256,New,Dubai
+C0257,Returning,Sharjah
+C0258,Returning,Sharjah
+C0259,Returning,Dubai
+C0260,Returning,Abu Dhabi
+C0261,Returning,Al Ain
+C0262,Returning,Ajman
+C0263,VIP,Abu Dhabi
+C0264,VIP,Sharjah
+C0265,VIP,Abu Dhabi
+C0266,Returning,Abu Dhabi
+C0267,New,Abu Dhabi
+C0268,VIP,Sharjah
+C0269,New,Dubai
+C0270,New,Dubai
+C0271,VIP,Abu Dhabi
+C0272,New,Sharjah
+C0273,New,Dubai
+C0274,Returning,Sharjah
+C0275,VIP,Sharjah
+C0276,Returning,Ajman
+C0277,VIP,Sharjah
+C0278,VIP,Ajman
+C0279,VIP,Dubai
+C0280,Returning,Abu Dhabi
+C0281,Returning,Sharjah
+C0282,VIP,Umm Al Quwain
+C0283,New,Sharjah
+C0284,Returning,Abu Dhabi
+C0285,New,Dubai
+C0286,Returning,Abu Dhabi
+C0287,VIP,Abu Dhabi
+C0288,VIP,Abu Dhabi
+C0289,Returning,Dubai
+C0290,Returning,Ajman
+C0291,VIP,Al Ain
+C0292,New,Abu Dhabi
+C0293,New,Dubai
+C0294,Returning,Sharjah
+C0295,Returning,Al Ain
+C0296,Returning,Ajman
+C0297,New,Dubai
+C0298,Returning,Al Ain
+C0299,New,Abu Dhabi
+C0300,Returning,Dubai
+C0301,Returning,Al Ain
+C0302,Returning,Dubai
+C0303,VIP,Abu Dhabi
+C0304,VIP,Dubai
+C0305,Returning,Abu Dhabi
+C0306,New,Al Ain
+C0307,New,Dubai
+C0308,Returning,Sharjah
+C0309,Returning,Umm Al Quwain
+C0310,New,Abu Dhabi
+C0311,New,Abu Dhabi
+C0312,VIP,Sharjah
+C0313,Returning,Abu Dhabi
+C0314,VIP,Abu Dhabi
+C0315,New,Abu Dhabi
+C0316,New,Dubai
+C0317,New,Abu Dhabi
+C0318,Returning,Abu Dhabi
+C0319,Returning,Fujairah
+C0320,Returning,Abu Dhabi
+C0321,New,Al Ain
+C0322,New,Dubai
+C0323,VIP,Abu Dhabi
+C0324,Returning,Sharjah
+C0325,Returning,Dubai
+C0326,New,Dubai
+C0327,New,Al Ain
+C0328,New,Abu Dhabi
+C0329,Returning,Ajman
+C0330,Returning,Abu Dhabi
+C0331,VIP,Sharjah
+C0332,Returning,Ras Al Khaimah
+C0333,Returning,Dubai
+C0334,Returning,Dubai
+C0335,Returning,Fujairah
+C0336,Returning,Abu Dhabi
+C0337,New,Fujairah
+C0338,New,Dubai
+C0339,New,Dubai
+C0340,Returning,Abu Dhabi
+C0341,New,Dubai
+C0342,New,Abu Dhabi
+C0343,New,Sharjah
+C0344,New,Dubai
+C0345,Returning,Abu Dhabi
+C0346,New,Dubai
+C0347,VIP,Dubai
+C0348,Returning,Abu Dhabi
+C0349,Returning,Abu Dhabi
+C0350,Returning,Al Ain
+C0351,New,Dubai
+C0352,New,Abu Dhabi
+C0353,Returning,Dubai
+C0354,Returning,Ras Al Khaimah
+C0355,New,Abu Dhabi
+C0356,Returning,Dubai
+C0357,New,Dubai
+C0358,VIP,Dubai
+C0359,New,Dubai
+C0360,New,Sharjah
+C0361,New,Abu Dhabi
+C0362,Returning,Al Ain
+C0363,New,Al Ain
+C0364,Returning,Dubai
+C0365,Returning,Al Ain
+C0366,New,Ras Al Khaimah
+C0367,Returning,Sharjah
+C0368,VIP,Abu Dhabi
+C0369,Returning,Dubai
+C0370,Returning,Sharjah
+C0371,New,Abu Dhabi
+C0372,New,Dubai
+C0373,New,Abu Dhabi
+C0374,New,Dubai
+C0375,Returning,Sharjah
+C0376,Returning,Dubai
+C0377,VIP,Sharjah
+C0378,New,Dubai
+C0379,Returning,Dubai
+C0380,Returning,Umm Al Quwain
+C0381,New,Dubai
+C0382,VIP,Sharjah
+C0383,New,Al Ain
+C0384,VIP,Abu Dhabi
+C0385,Returning,Dubai
+C0386,New,Sharjah
+C0387,New,Sharjah
+C0388,Returning,Dubai
+C0389,Returning,Dubai
+C0390,VIP,Dubai
+C0391,Returning,Abu Dhabi
+C0392,Returning,Sharjah
+C0393,Returning,Abu Dhabi
+C0394,Returning,Umm Al Quwain
+C0395,Returning,Abu Dhabi
+C0396,New,Ajman
+C0397,Returning,Abu Dhabi
+C0398,New,Al Ain
+C0399,Returning,Sharjah
+C0400,New,Fujairah
+C0401,New,Dubai
+C0402,VIP,Ras Al Khaimah
+C0403,New,Abu Dhabi
+C0404,Returning,Al Ain
+C0405,Returning,Abu Dhabi
+C0406,Returning,Sharjah
+C0407,Returning,Abu Dhabi
+C0408,New,Ras Al Khaimah
+C0409,VIP,Ajman
+C0410,New,Dubai
+C0411,Returning,Dubai
+C0412,VIP,Abu Dhabi
+C0413,Returning,Al Ain
+C0414,Returning,Dubai
+C0415,Returning,Sharjah
+C0416,Returning,Sharjah
+C0417,VIP,Abu Dhabi
+C0418,New,Abu Dhabi
+C0419,Returning,Dubai
+C0420,New,Sharjah

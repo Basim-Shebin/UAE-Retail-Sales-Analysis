@@ -1,0 +1,6 @@
+Discount_Group,Total_Orders,Total_Revenue_AED,Total_Profit_AED,Profit_Margin_Percentage
+"No Discount",465,531741.15,190659.53,35.86
+"Up to 5%",331,291744.42,102840.46,35.25
+"6% to 10%",322,337025.34,95497.74,28.34
+"11% to 15%",159,157628.09,38314.18,24.31
+"Above 15%",80,73403.21,16395.45,22.34
